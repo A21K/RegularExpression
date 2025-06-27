@@ -1,0 +1,7 @@
+Exercise 8: Matching optional characters
+Task	Text	 
+match	1 file found?	
+match	2 files found?	
+match	24 files found?	
+skip	No files found.
+pattern \d+ files? found\?

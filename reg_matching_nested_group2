@@ -1,0 +1,6 @@
+Exercise 13: Matching nested groups
+Task	Text	Capture Groups	 
+capture	1280x720	1280 720
+capture	1920x1600	1920 1600
+capture	1024x768	1024 768
+pattern (\d+)x(\d+)

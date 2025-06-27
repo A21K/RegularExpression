@@ -1,0 +1,5 @@
+Task	Text	 
+match	abc123xyz
+match	define "123"
+match	var g = 123;
+pattern \D*123[\d\D]*

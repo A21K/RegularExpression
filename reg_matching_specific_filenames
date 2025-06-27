@@ -1,0 +1,11 @@
+AD_Exercise 5: Capturing filename data
+Task	Text	            Capture Groups	 
+skip	.bash_profile
+skip	workspace.doc
+capture	img0912.jpg	        img0912 jpg
+capture	updated_img0912.png	updated_img0912 png
+skip	documentation.html
+capture	favicon.gif	        favicon gif
+skip	img0912.jpg.tmp
+skip	access.lock
+pattern (.*)\.(jpg|gif|png)$

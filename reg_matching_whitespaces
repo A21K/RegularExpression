@@ -1,0 +1,7 @@
+Exercise 9: Matching whitespaces
+Task	Text	 
+match	1.   abc	
+match	2.	abc	
+match	3.           abc	
+skip	4.abc
+pattern \d\.\s+abc

@@ -1,0 +1,9 @@
+AD_Exercise 1: Matching numbers
+Task	Text	 
+match	3.14529
+match	-255.34
+match	128
+match	1.9e10
+match	123,340.00
+skip	720p
+pattern ^-?[\d+.,e]*$

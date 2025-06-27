@@ -1,0 +1,6 @@
+
+Task	Text	 
+match	wazzzzzup	
+match	wazzzup	
+skip	wazup
+pattern [a-z]+z{3}.*

@@ -1,0 +1,5 @@
+Task	Text	Capture Groups	 
+capture	Jan 1987	Jan 1987, 1987
+capture	May 1969	May 1969, 1969
+capture	Aug 2011	Aug 2011, 2011
+pattern (^[A-Z][a-z]{2} (\d{4}))

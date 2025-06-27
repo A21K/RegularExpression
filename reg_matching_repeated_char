@@ -1,0 +1,7 @@
+Exercise 7: Matching repeated characters
+Task	Text	 
+match	aaaabcc	
+match	aabbbbc	
+match	aacc	
+skip	a
+pattern a+b*c+

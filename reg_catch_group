@@ -1,0 +1,6 @@
+Exercise 11: Matching groups
+Task	Text	                       Capture Groups	 
+capture	file_record_transcript.pdf	file_record_transcript
+capture	file_07241999.pdf	        file_07241999
+skip	testfile_fake.pdf.tmp
+pattern (^file_[\w]*)

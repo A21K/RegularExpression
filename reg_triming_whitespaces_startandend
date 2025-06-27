@@ -1,0 +1,5 @@
+Exercise 6: Matching lines
+Task	Text	                            Capture Groups	 
+capture				The quick brown fox...	The quick brown fox...
+capture	   jumps over the lazy dog.	        jumps over the lazy dog.
+pattern ^[\s]*([\w\W]*)[\s]*$

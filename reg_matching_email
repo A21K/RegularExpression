@@ -1,0 +1,10 @@
+AD_Exercise 3: Matching emails
+Task	Text	                            Capture Groups	 
+capture	tom@hogwarts.com	                tom
+capture	tom.riddle@hogwarts.com	            tom.riddle
+capture	tom.riddle+regexone@hogwarts.com	tom.riddle
+capture	tom@hogwarts.eu.com	                tom
+capture	potter@hogwarts.com	                potter
+capture	harry@hogwarts.com	                harry
+capture	hermione+regexone@hogwarts.com	    hermione
+pattern (\w+\.?\w+)[+\w]*@.*.com

@@ -1,0 +1,5 @@
+Task	Text	 
+match	hog
+match	dog
+skip	bog
+pattern [^b]og

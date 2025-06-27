@@ -1,0 +1,7 @@
+Exercise 14: Matching conditional text
+Task	Text	 
+match	I love cats
+match	I love dogs
+skip	I love logs
+skip	I love cogs
+pattern ^I love (cats|dogs)$

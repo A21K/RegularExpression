@@ -1,0 +1,6 @@
+Task	Text	 
+match	cat.
+match	896.
+match	?=+.
+skip	abc1
+pattern .*\.

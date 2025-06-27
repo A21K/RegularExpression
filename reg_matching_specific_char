@@ -1,0 +1,8 @@
+Task	Text	 
+match	can
+match	man
+match	fan
+skip	dan
+skip	ran
+skip	pan
+pattern [cmf]an

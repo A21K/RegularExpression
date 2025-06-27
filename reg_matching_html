@@ -1,0 +1,7 @@
+AD_Exercise 4: Capturing HTML Tags
+Task	Text	                                Capture Groups	 
+capture	<a>This is a link</a>	                a
+capture	<a href='https://regexone.com'>Link</a>	a
+capture	<div class='test_style'>Test</div>	    div
+capture	<div>Hello <span>world</span></div>	    div
+pattern ^<(\w*).*

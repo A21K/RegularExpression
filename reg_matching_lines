@@ -1,0 +1,6 @@
+Exercise 10: Matching lines[starting&ending]
+Task	Text	 
+match	Mission: successful
+skip	Last Mission: unsuccessful
+skip	Next Mission: successful upon capture of target
+pattern ^Mission: successful$
